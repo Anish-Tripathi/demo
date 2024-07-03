@@ -1,4 +1,5 @@
 # demo
 This is a demo repository
 <br>
-Author: Anish Tripathi
+Author: Anish Arun Tripathi
+
